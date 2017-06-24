@@ -1,7 +1,7 @@
 ---
 title: Kynuté koláčky
 tags:
-  - sladke
+  - sladké
 ---
 
 ## Suroviny
