@@ -2,7 +2,7 @@
 
 ## Přidat recept online
 
-1. klikni na [Přidat recept rychle](https://github.com/aufi/recepty/new/master/recepty?filename=novy_recept.md)
+1. otevři odkaz [Přidat recept rychle](https://github.com/aufi/recepty/new/master/recepty?filename=novy_recept.md) v nové kartě
 
 2. uprav název souboru s receptem (koncovku .md nech)
 
